@@ -1,0 +1,1 @@
+Callback() : _callback(nullptr){}
